@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gebruiker\\source\\repos\\Test.API\\Test.API\\Test.API.csproj": {}
+    "C:\\Users\\vlad.chechina\\Desktop\\Betting App Backend\\Test.API\\Test.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gebruiker\\source\\repos\\Test.API\\Test.API\\Test.API.csproj": {
+    "C:\\Users\\vlad.chechina\\Desktop\\Betting App Backend\\Test.API\\Test.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gebruiker\\source\\repos\\Test.API\\Test.API\\Test.API.csproj",
+        "projectUniqueName": "C:\\Users\\vlad.chechina\\Desktop\\Betting App Backend\\Test.API\\Test.API.csproj",
         "projectName": "Test.API",
-        "projectPath": "C:\\Users\\gebruiker\\source\\repos\\Test.API\\Test.API\\Test.API.csproj",
-        "packagesPath": "C:\\Users\\gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gebruiker\\source\\repos\\Test.API\\Test.API\\obj\\",
+        "projectPath": "C:\\Users\\vlad.chechina\\Desktop\\Betting App Backend\\Test.API\\Test.API.csproj",
+        "packagesPath": "C:\\Users\\vlad.chechina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlad.chechina\\Desktop\\Betting App Backend\\Test.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vlad.chechina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

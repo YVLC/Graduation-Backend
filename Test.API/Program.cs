@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Test.API.Data;
+using Test.API.Services.SuperHeroService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,8 @@ builder.Services.AddDbContext<DataContext>(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ISuperHeroService, SuperHeroService>();
+builder.Services.AddDbContext<DataContext>();
 
 var app = builder.Build();
 
