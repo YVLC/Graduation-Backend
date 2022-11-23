@@ -19,7 +19,7 @@ namespace Test.API.Migrations
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Place = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Place = table.Column<string>(type: "nvarchar(m ax)", nullable: false)
                 },
                 constraints: table =>
                 {
