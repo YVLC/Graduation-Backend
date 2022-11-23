@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Test.API.Data;
 using Test.API.Services.UserService;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
